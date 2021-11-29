@@ -6,12 +6,6 @@
 
 В **XX веке** был внесён в **Красную книгу МСОП**, в **Красную книгу России**, а также в охранные документы других стран. Однако во многих странах Африки относительно высокая численность леопардов позволяет выделять ежегодно квоту на их добычу.
 
-Reference-style:
-![alt text][logo]
+<!-- [images]: https://cdn.pixabay.com/photo/2017/10/27/20/25/leopard-2895448_960_720.jpg -->
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://cdn.pixabay.com/photo/2017/10/27/20/25/leopard-2895448_960_720.jpg
+[logo]: https://cdn.pixabay.com/photo/2017/10/27/20/25/leopard-2895448_960_720.jpg "Logo Title Text 2"

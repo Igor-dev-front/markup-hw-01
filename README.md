@@ -10,3 +10,8 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+Reference-style:
+![alt text][logo]
+
+[logo]: https://cdn.pixabay.com/photo/2017/10/27/20/25/leopard-2895448_960_720.jpg
